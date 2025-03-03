@@ -1,0 +1,14 @@
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\model\GerenciaTarefas.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\MainView$3.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\CadastroView$1.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\MainView$2.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\model\Tarefa.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\model\TarefaComPrazo.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\MainView$1.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\CadastroView.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\CadastroView$4.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\model\TarefaSimples.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\CadastroView$3.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\MainView.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\controller\TarefasController.class
+br\unifae\engsoft\poo3\gerenciadorDeTarefas\view\CadastroView$2.class
